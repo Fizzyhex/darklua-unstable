@@ -361,7 +361,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "darklua"
+name = "darklua-type-functions"
 version = "0.17.3"
 dependencies = [
  "anstyle",

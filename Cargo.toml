@@ -1,11 +1,11 @@
 [package]
-name = "darklua"
+name = "darklua-type-functions"
 version = "0.17.3"
-authors = ["jeparlefrancais <jeparlefrancais21@gmail.com>"]
+authors = ["fizzyhex"]
 edition = "2018"
 readme = "README.md"
-description = "Transform Lua scripts"
-repository = "https://github.com/seaofvoices/darklua"
+description = "Transform Lua scripts (unstable fork of Darklua by @seaofvoices)"
+repository = "https://github.com/Fizzyhex/darklua-tf-temp"
 homepage = "https://darklua.com"
 license = "MIT"
 keywords = ["lua", "obsfucation", "minify"]
